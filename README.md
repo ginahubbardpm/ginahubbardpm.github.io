@@ -1,4 +1,4 @@
-# Jekyll Theme Serial Programmer
+# Driven Product Manager
 
 > A Jekyll theme for serial programmers (-.-)
 
